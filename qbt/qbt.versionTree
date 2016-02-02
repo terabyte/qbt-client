@@ -1,0 +1,233 @@
+meta_tools.release@b34cd4e37eb3885cad3d3765e9122b8238040fc8:
+    EffectiveTree: af654858f08b032c4d8b711a7ecfceedef63790a
+    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+    QbtEnv:
+        JDK: 1_8
+    Weak:
+        meta_tools.main@65ef5bb2f817e5e0fdf607c4ae6c4b1168ebaf82:
+            EffectiveTree: 58ccf5c0c2ae31b9cfd3fc243e1c543da107154c
+            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+            QbtEnv:
+                JDK: 1_8
+            Strong:
+                qbt.app.cmd@a682e9dea21df984c98c392bf79c4cabe90aa7dc:
+                    EffectiveTree: 25c6aaeb5f708401eb845b840eddad70495e5e73
+                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                    QbtEnv:
+                        JDK: 1_8
+                    Strong:
+                        qbt.app.main@b11f65302926fb47e3b790af08e2cfe64c141cf7:
+                            EffectiveTree: d2c755a36d2f9df51c3880c8e2011eafe63b14ac
+                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                            QbtEnv:
+                                JDK: 1_8
+                            Strong:
+                                mc.com.google.code.gson.gson@1bfb93e926bd33dfcbce433fec9e950189d39dfd:
+                                    EffectiveTree: 5682b1a978e94e34720142793cb1266178245632
+                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                    QbtEnv:
+                                        JDK: 1_8
+                                mc.org.apache.httpcomponents.httpclient@7d8adf73cd3c90657127dd013a3a4c5d28cdb5ea:
+                                    EffectiveTree: e5b14a8881943e8094837b24f4e6d3230038b145
+                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                    QbtEnv:
+                                        JDK: 1_8
+                                    Strong:
+                                        mc.commons.codec.commons.codec@e9fdce8647881a6ecbddef95b268c0af8bd6d571:
+                                            EffectiveTree: 12b33ad5ef8aa2365f2742e1f41f4a61c7dd00cc
+                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                            QbtEnv:
+                                                JDK: 1_8
+                                        mc.commons.logging.commons.logging@81d99d4200bd87281831c2c9f784f2dd6bf5e901:
+                                            EffectiveTree: 6ce0ab982d52f4c775b9318aa002d953168f84ac
+                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                            QbtEnv:
+                                                JDK: 1_8
+                                            Strong:
+                                                mc.javax.servlet.servlet.api@ef6c3170347886f0e8f90f39c1f85475724481cd:
+                                                    EffectiveTree: 58632379fa862ee3d81ae1a59ec04dddfe58f192
+                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                    QbtEnv:
+                                                        JDK: 1_8
+                                                mc.log4j.log4j@8b53f5d7a378ec9df5bb0aa26fd0c0e1497b4f47:
+                                                    EffectiveTree: eb7c16f3eda9aa3d60faf58059c7b2784dacbe8b
+                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                    QbtEnv:
+                                                        JDK: 1_8
+                                                    Strong:
+                                                        mc.javax.mail.mail@9ce2bd65cd1c72a69b202aa3a0537f982d7a62fd:
+                                                            EffectiveTree: 3078d6d5c2853a6af4829d27a957d9955a3c3517
+                                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                            QbtEnv:
+                                                                JDK: 1_8
+                                                            Strong:
+                                                                mc.javax.activation.activation@7242e33ef381d930d086ae0189abca3e0a8ff6cb:
+                                                                    EffectiveTree: 82d01bbc4861535d4472436b7bba092d314d2f6a
+                                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                                    QbtEnv:
+                                                                        JDK: 1_8
+                                                        mc.org.apache.geronimo.specs.geronimo.jms_1.1_spec@3fd6bb9631601091aff19cea29654ab0a1f2df85:
+                                                            EffectiveTree: 7c8750e57b34bd24355953c09959fa10a1970cd1
+                                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                            QbtEnv:
+                                                                JDK: 1_8
+                                                mc.logkit.logkit@74eea3ffa9aae2ef74d19a745d56871d2bb9449a:
+                                                    EffectiveTree: 48b33114e12f98471a021a4ba18abf0f71f48b2d
+                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                    QbtEnv:
+                                                        JDK: 1_8
+                                        mc.org.apache.httpcomponents.httpcore@fe57b9f67c7449cb3935e3e0342613176c57d59e:
+                                            EffectiveTree: 20bca0cebb804e3fb4f64dbe964e8b63c5557eb2
+                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                            QbtEnv:
+                                                JDK: 1_8
+                                mc.org.codehaus.groovy.groovy.all@69e05c37fae4fec0fdf3184c99277d08d819be1c:
+                                    EffectiveTree: ed36d88c053e7574dbdec66944110df880cc4060
+                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                    QbtEnv:
+                                        JDK: 1_8
+                                misc1.commons.algo.main@230fca19789901bebd15263ba62d6f3801386a75:
+                                    EffectiveTree: 31b34a7ffb0e135125b900ac45c2f20e29e04049
+                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                    QbtEnv:
+                                        JDK: 1_8
+                                    Strong:
+                                        mc.com.google.guava.guava@96bbc02abb4dabe5887f1de50991e9201169cd3c:
+                                            EffectiveTree: 361be0cf1e0653290498eed12fda80555ef01434
+                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                            QbtEnv:
+                                                JDK: 1_8
+                                            Strong:
+                                                mc.com.google.code.findbugs.jsr305@04fa704dd4a1df8d6d0ec27234c2307d82dc5cec:
+                                                    EffectiveTree: d4c5691cc4c29621c50fc5dce84b64703c3cecfe
+                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                    QbtEnv:
+                                                        JDK: 1_8
+                                                mc.javax.inject.javax.inject@dd2b49626ac79132830c37a9740aa86535ec3fe8:
+                                                    EffectiveTree: f8b3551b8937e3b9c472f12b11598138615f0003
+                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                    QbtEnv:
+                                                        JDK: 1_8
+                                    Weak:
+                                        3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662:
+                                            EffectiveTree: b7004b133988d950abd87376447c0ccc6a562524
+                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                            Metadata:
+                                                buildType: COPY
+                                        qbt_fringe.linter.release@a73955e8a50cbd991549f8ace7f7c519def9d48c:
+                                            EffectiveTree: 9f6e4238e8ed6e7f432987c5e3601d95434e0b2a
+                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                            QbtEnv:
+                                                JDK: 1_8
+                                            Weak:
+                                                qbt_fringe.linter.main@eaaaf73dbfdfefb4172618b472dfcc40695ab94e:
+                                                    EffectiveTree: 04cd653088d1e10e10cd3b4dc9c9134fc0aa637d
+                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                    QbtEnv:
+                                                        JDK: 1_8
+                                                    Strong:
+                                                        misc1.commons.options.main@b377fd312783749a8bc129fdcb9444aabb24ff56:
+                                                            EffectiveTree: d4fac5f5ab2d8d02ec68cae6219ab5fe5a428cde
+                                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                            QbtEnv:
+                                                                JDK: 1_8
+                                                            Strong:
+                                                                mc.junit.junit@fca1bedce21e423e597ee8446759b2d033bb9068:
+                                                                    EffectiveTree: fc44f329212dc97a78fe586e2d5568844ea05296
+                                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                                    QbtEnv:
+                                                                        JDK: 1_8
+                                                                    Strong:
+                                                                        mc.org.hamcrest.hamcrest.core@1b65eef55937830b84db5f12d6ba6fce7a155d39:
+                                                                            EffectiveTree: bc04a46214cdd2f72dd6c7a34a0227baf76e0cfa
+                                                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                                            QbtEnv:
+                                                                                JDK: 1_8
+                                                                misc1.commons.core.main@1e8653886bc5c5245fb427501f1ff423c4aa59da:
+                                                                    EffectiveTree: 44832e97ba01bd8e6772ca8e86e50600edf53562
+                                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                                    QbtEnv:
+                                                                        JDK: 1_8
+                                                                    Strong:
+                                                                        mc.com.google.guava.guava@96bbc02abb4dabe5887f1de50991e9201169cd3c...
+                                                                        mc.org.apache.commons.commons.lang3@36c5e4238a75ada91107d5ec3af8c1995c43cbdc:
+                                                                            EffectiveTree: 89a9e3357d57c8c067952552eee4fb3eddbf749a
+                                                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                                            QbtEnv:
+                                                                                JDK: 1_8
+                                                                    Weak:
+                                                                        3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+                                                            Weak:
+                                                                3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+                                                    Weak:
+                                                        3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+                                                qbt_fringe.wrapper_generator.release@15357d18526c1fbc820a76602c75c4dcf2a9741f:
+                                                    EffectiveTree: b0717985b8c09a9a3a19887a11cef8cd95091425
+                                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                                    QbtEnv:
+                                                        JDK: 1_8
+                                                    Metadata:
+                                                        buildType: COPY
+                                misc1.commons.concurrent.main@ebb16398213a575d906ebf4193c47c8e0889d833:
+                                    EffectiveTree: 06c64fae58d11a0cb4e08aa4b35b8df31995c4ab
+                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                    QbtEnv:
+                                        JDK: 1_8
+                                    Strong:
+                                        mc.org.slf4j.slf4j.api@78add7801ebbd4fa30c9df7381cd14433e8a2904:
+                                            EffectiveTree: e33b24572a24a400ad287cfb2ae33312ba330370
+                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                            QbtEnv:
+                                                JDK: 1_8
+                                        misc1.commons.core.main@1e8653886bc5c5245fb427501f1ff423c4aa59da...
+                                    Weak:
+                                        3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+                                        qbt_fringe.linter.release@a73955e8a50cbd991549f8ace7f7c519def9d48c...
+                                misc1.commons.ph.main@3c11bcc5298c7e3c33c6e7a303e263308be0bfd4:
+                                    EffectiveTree: f4dc6b9b20f55118b185ea02bf3b2f87bb5f6328
+                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                    QbtEnv:
+                                        JDK: 1_8
+                                    Strong:
+                                        mc.org.slf4j.slf4j.api@78add7801ebbd4fa30c9df7381cd14433e8a2904...
+                                        misc1.commons.core.main@1e8653886bc5c5245fb427501f1ff423c4aa59da...
+                                    Weak:
+                                        3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+                                        qbt_fringe.linter.release@a73955e8a50cbd991549f8ace7f7c519def9d48c...
+                                qbt.bin.main@c8018dc8e95fa5c52824233191c0ec6eafcd1a4b:
+                                    EffectiveTree: 230575641a4ff969f33f40fe99e073212fb53ee9
+                                    QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                    QbtEnv:
+                                        JDK: 1_8
+                                    Strong:
+                                        mc.org.slf4j.slf4j.log4j12@ef672c4123cb15cd33e10a00434dc432ae21e4fa:
+                                            EffectiveTree: f57fab2fe7ece9a4e6398ec1cabff8960256946f
+                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                            QbtEnv:
+                                                JDK: 1_8
+                                            Strong:
+                                                mc.log4j.log4j@8b53f5d7a378ec9df5bb0aa26fd0c0e1497b4f47...
+                                                mc.org.slf4j.slf4j.api@78add7801ebbd4fa30c9df7381cd14433e8a2904...
+                                        misc1.commons.options.main@b377fd312783749a8bc129fdcb9444aabb24ff56...
+                                        qbt.lib.main@6f88c264ef6ed9df05f55fbfa423e66827421841:
+                                            EffectiveTree: f1b991c67426069c3855423f9e473d3f6fcc2710
+                                            QbtVersion: 3eb9bfa6ca61dd44af98cea8ed7640a838606418
+                                            QbtEnv:
+                                                JDK: 1_8
+                                            Strong:
+                                                misc1.commons.core.main@1e8653886bc5c5245fb427501f1ff423c4aa59da...
+                                            Weak:
+                                                3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+                                                qbt_fringe.linter.release@a73955e8a50cbd991549f8ace7f7c519def9d48c...
+                                    Weak:
+                                        3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+                                        qbt_fringe.linter.release@a73955e8a50cbd991549f8ace7f7c519def9d48c...
+                            Weak:
+                                3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+                                qbt_fringe.linter.release@a73955e8a50cbd991549f8ace7f7c519def9d48c...
+                    Weak:
+                        3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+            Weak:
+                3p.gradle@5a266f4b13b9535b488f3e9cdb18c733b95a3662...
+                qbt_fringe.linter.release@a73955e8a50cbd991549f8ace7f7c519def9d48c...
+        qbt_fringe.wrapper_generator.release@15357d18526c1fbc820a76602c75c4dcf2a9741f...
