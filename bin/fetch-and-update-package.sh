@@ -20,6 +20,7 @@ fi
 git -C meta fetch $REMOTE $REF
 
 git -C meta checkout FETCH_HEAD
+qbt fetchPins $REMOTE --all -J
 
 # calculate new version
 NEWVERSION="$(qbt resolveManifestCumulativeVersions --package $PKG | cut -d' ' -f2)"
