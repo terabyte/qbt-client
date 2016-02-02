@@ -11,6 +11,7 @@ REF=$2
 PKG=$3
 OUTPUT_DIR=$4
 CURRENT="unknown"
+DATE="$(date +"%Y%m%d%H%M%S")"
 
 if [[ -f "$OUTPUT_DIR/qbt.versionDigest" ]]; then
     CURRENT=$(cat $OUTPUT_DIR/qbt.versionDigest)
@@ -33,15 +34,16 @@ qbt build --package $PKG --verify
 
 function cleanup {
     if [[ ! -d $OUTPUT_DIR ]]; then
-        mv $OUTPUT_DIR.old $OUTPUT_DIR
+        mv $OUTPUT_DIR.$DATE $OUTPUT_DIR
     fi
-    rm -rf $OTUPUT_DIR.old
+    # save old copies by default
+    #rm -rf $OTUPUT_DIR.$DATE
 }
 trap cleanup EXIT
 
 if [[ -d $OUTPUT_DIR ]]; then
     # move out of the way
-    mv $OUTPUT_DIR $OUTPUT_DIR.old
+    mv $OUTPUT_DIR $OUTPUT_DIR.$DATE
 fi
 qbt build --package $PKG --output requested,directory,$OUTPUT_DIR
 
